@@ -1,0 +1,8 @@
+#!/bin/bash
+# A sample Bash script, by Xhino
+
+for i in {1..5}
+do
+  echo "Number $i"
+  python 01_testing_nano.py
+done
